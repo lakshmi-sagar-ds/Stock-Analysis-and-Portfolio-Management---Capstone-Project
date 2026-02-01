@@ -1,4 +1,4 @@
-# 📈 Stock Analysis & Portfolio Management for Long-Term Investment Planning
+# Stock Analysis & Portfolio Management for Long-Term Investment Planning
 
 ## ✅ Objective  
 This capstone project aimed to design a **stable, low-to-moderate risk investment portfolio** for a real-world client, **Ms. Alexandra Kolishnyic**, a college student with a long-term goal of funding an NGO after graduation.
